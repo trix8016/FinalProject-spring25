@@ -1,0 +1,38 @@
+[
+    {
+        "isbn": "9780141439600",
+        "title": "les misérables",
+        "rating": 4.6,
+        "author": "victor hugo"
+    },
+    {
+        "isbn": "9780451526342",
+        "title": "the hunchback of notre dame",
+        "rating": 4.4,
+        "author": "victor hugo"
+    },
+    {
+        "isbn": "9780141301150",
+        "title": "matilda",
+        "rating": 4.7,
+        "author": "roald dahl"
+    },
+    {
+        "isbn": "9780064404990",
+        "title": "charlotte's web",
+        "rating": 4.8,
+        "author": "e b white"
+    },
+    {
+        "isbn": "9780439064872",
+        "title": "holes",
+        "rating": 4.6,
+        "author": "louis sachar"
+    },
+    {
+        "isbn": "9780142410318",
+        "title": "bridge to terabithia",
+        "rating": 4.3,
+        "author": "katherine paterson"
+    }
+]
